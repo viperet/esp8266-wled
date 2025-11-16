@@ -14,7 +14,7 @@ This project describes a custom ESP8266 WLED controller with integrated 0.96" OL
 
 Schematic and PCB design files are created using EasyEDA and can be found in the `pcb` directory.
 - [EasyEDA Project](pcb/WLED_OLED_2025-11-16.epro) (also available online at  https://oshwlab.com/viperet/wled)
-- [Gerber Files](pcb/gerbers/WLED_OLED_2025-11-16.zip) (for manufacturing, I ordered my PCBs from JLCPCB, $4.31
+- [Gerber Files](pcb/Gerber_PCB2_2025-11-16.zip) (for manufacturing, I ordered my PCBs from JLCPCB, $4.31
 for 5 pieces)
 - [PCB PDF, for DIY toner transfer method](pcb/PCB_PCB2_2025-11-16.pdf)
 
