@@ -24,7 +24,7 @@ for 5 pieces)
 |--------------------------------------|----------|-----------------|--------|
 | ESP8266 (ESP-12F)                    | 1        | $1.74           | [Aliexpress](https://www.aliexpress.com/item/1005009043560818.html) |
 | 0.96" I2C OLED Display               | 1        | $1.62           | [Aliexpress](https://www.aliexpress.com/item/1005008738379315.html) |
-| 6x6x12mm Tactile Push Buttons        | 3        | $0.08 each      | [Aliexpress](https://www.aliexpress.com/item/1005003115135192.html) |
+| 6x6x14mm Tactile Push Buttons        | 3        | $0.08 each      | [Aliexpress](https://www.aliexpress.com/item/1005003115135192.html) |
 | 5.5x2.5mm DC Power Socket            | 1        | $0.50           | [Aliexpress](https://www.aliexpress.com/item/1005001421234567.html) |
 | 5V 2A Power Supply.                  | 1        | $1.31           | [Aliexpress](https://www.aliexpress.com/item/1005002466317273.html) |
 | AMS1117 3.3V Voltage Regulator       | 1        | $0.06           | [Aliexpress](https://www.aliexpress.com/item/1005007545374135.html) |
